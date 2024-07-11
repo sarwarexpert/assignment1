@@ -178,3 +178,18 @@ iframe{
     border: none;
     font-weight: bold;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    align-items: center;
+    background-color: rgba(13, 19, 33, 0.03);
+    border-radius: 10px;
+}
+footer p{
+    padding: 10 0px;
+    font-weight: bold;
+}
+footer a{
+    padding: 10px 0;
+}
