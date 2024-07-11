@@ -87,3 +87,16 @@ body{
     display: inline-block;
     margin: 10px;
 }
+.ins_head h3{
+    font-weight: 900;
+    font-size: 20px;
+    padding: 20px;
+}
+.ins_head p{
+    padding: 0 100px 30px;
+}
+iframe{
+    height: 400px;
+    width: 90%;
+    border-radius: 10px;
+}
