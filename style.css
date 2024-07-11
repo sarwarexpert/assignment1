@@ -100,3 +100,48 @@ iframe{
     width: 90%;
     border-radius: 10px;
 }
+.my_current_target{
+    padding: 30px 0;
+}
+.my_current_target h3{
+    font-weight: 900;
+    font-size: 20px;
+    padding: 20px;
+}
+.my_current_target p{
+    padding: 0 100px 30px;
+}
+
+
+.my_current_target_cards{
+    display: flex;
+}
+.target_card{
+    margin: 0 10px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;
+}
+.card_1{
+    background-color: rgba(255, 75, 30, 0.05);
+}
+.card_2{
+    background-color: rgba(0, 77, 232, 0.05);
+}
+.card_3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.target_card h1{
+    font-weight: 900;
+    font-size: 15px;
+    padding: 10px;
+    padding-bottom: 0;
+}
+.target_card p{
+    padding: 10px;
+}
+.target_card a{
+    color: #0D1321;
+    padding: 10px;
+    font-weight: bold;
+}
