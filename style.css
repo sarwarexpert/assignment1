@@ -145,3 +145,36 @@ iframe{
     padding: 10px;
     font-weight: bold;
 }
+.i_need_support{
+    background-image: url(./assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 10px;
+}
+.i_need_support h1{
+    padding: 10px;
+}
+.i_need_support p{
+    padding: 10px 50px;
+}
+.i_need_support input[type="text"]{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 300px;
+}
+.i_need_support input[type="submit"]{
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+}
