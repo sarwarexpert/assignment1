@@ -45,5 +45,45 @@ body{
     text-decoration: none;
     background-color: black;
     padding: 10px 20px;
+    border-radius: 10px;
+}
+.why_web_development{
+    background-color: rgba(13, 19, 33, 0.02);
+    padding: 50px 0;
+}
+.why_web_head{
+    padding: 30px 50px;
+}
+.why_web_head h2{
+    padding: 10px 0;
+}
+.why_web_head p{
+    padding: 10px 0;
+}
+
+.why_web_card{
+    display: flex;
+    text-align: left;
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
     border-radius: 10px;
+    padding: 30px;
+}
+.card_content h3{
+    padding: 20px 10px;
+    font-weight: bold;
+    color: rgba(13, 19, 33, 0.7);
+}
+.card_content p{
+    padding: 10px;
+}
+.card_content a{
+    text-decoration: none;
+    padding: 10px;
+    color: #0D1321;
+    border: 1px solid #0D1321;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 10px;
 }
